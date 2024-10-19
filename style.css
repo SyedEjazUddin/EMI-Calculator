@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(ff.jpg);
+    background-image: url(az.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,7 +29,7 @@ body{
 .box1{
     height: 55px;
     width: 300px;
-    background-color: #fb6f92;
+    background-color: #936639;
     position: relative;  
     left: 26px;  
     top: 70px;
@@ -102,7 +102,7 @@ h3{
     color: white;
 }
 #btn{
-    background-color: #ff99c8;
+    background-color: #582f0e;
     border: none;
     outline: none;
     padding: 17px;
@@ -117,7 +117,7 @@ h3{
 }
 
 #select{
-    background-color: #ff99c8;
+    background-color: #582f0e;
     border: none;
     outline: none;
     padding: 17px;
@@ -132,11 +132,11 @@ h3{
 
 }
 #btn:hover{
-    background-color: #ffc2d1;
+    background-color: #7f4f24;
     cursor: pointer;
 }
 #select:hover{
-    background-color: #ffc2d1;
+    background-color: #7f4f24;
     cursor: pointer;
 }
 
@@ -147,7 +147,6 @@ img{
     position: relative;
     right: 350px;
     bottom: 200px;
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
     transition: transform 0.8s ease-in-out, box-shadow 0.9s ease-in-out; 
 }
 
